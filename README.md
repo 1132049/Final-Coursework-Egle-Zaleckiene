@@ -31,7 +31,9 @@ Website was written using HTML, CSS and PHP languages.
 In the future I'd like to research mountain infrastructure more. Choose destinations regarding infrastructure development - not the elevation.  Due to lack of time I chose only highest mountains,but unfortunately  not all of them have well developed infrastructure for tourists. 
 
 Future improvements: I'd add searching field for better user experience, a blog, where experienced travellers could share their impressions and advices, also a  forum where people could  discuss. 
+
 When uploading website to server I'd compress photos and code for faster browsing experience.
 Some photos are already a little bit compressed, but I was afraid to worsen photo quality, since the majority of them are used to cover the backgoud and they must be in high resolution. 
+So the challange is to find the balance between faster browsing and good photo quality.
 
 
